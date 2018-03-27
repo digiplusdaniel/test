@@ -18,4 +18,4 @@ git remote add origin https://github.com/username/filename.git
 
 git push -u origin master
 
-git log --stat
+git status
